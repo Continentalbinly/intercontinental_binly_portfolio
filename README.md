@@ -95,8 +95,7 @@ Modify the content in `src/app/page.tsx`:
 
 ## 📞 Contact
 
-- **Email**: hello@intercontinentalbinly.com
-- **LinkedIn**: @intercontinentalbinly
+- **Email**: thipphasone.work.2077@gmail.com
 - **GitHub**: @intercontinentalbinly
 
 ## 📄 License
